@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/70.860b7937.chunk.js","mappings":"mIAAA,MAIA,EAJgBA,KACLC,EAAAA,EAAAA,KAAA,MAAAC,SAAI,2D","sources":["components/Grocery.js"],"sourcesContent":["const Grocery = () => {\r\n    return <h1> This is My Grocery App and It has a lots of components</h1>\r\n}\r\n\r\nexport default Grocery;"],"names":["Grocery","_jsx","children"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfood=self.webpackChunkfood||[]).push([[70],{70:(s,o,e)=>{e.r(o),e.d(o,{default:()=>c});var a=e(579);const c=()=>(0,a.jsx)("h1",{children:" This is My Grocery App and It has a lots of components"})}}]);
+//# sourceMappingURL=70.860b7937.chunk.js.map
